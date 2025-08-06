@@ -66,7 +66,8 @@ For contributions or support, open an issue or contact the creator.
 
 ## 📬 Contact
 
-📧 **Email**: your.email@example.com *(replace this)*  
+📧 Email: joe.edimens@gmail.com
+
 🔗 **GitHub Profile**: [Jmens3](https://github.com/Jmens3)
 
 ---
