@@ -51,7 +51,9 @@ This platform features:
 📁 [`/articles/`](articles/) → Essays and reflections  
 📁 [`/prompts/`](prompts/) → All prompts, categorized  
 📁 [`/lesson-plans/`](lesson-plans/) → (Coming soon)  
-📁 [`/projects/`](projects/) → Tools and integrations  
+📁 [`/projects/`](projects/) → Tools and integrations 
+[AI Teaching Resource Launch](projects/ai-companion-launch-plan.md) → A strategic roadmap for rolling out your AI teaching tools
+
 📁[impact/educator-impact-reflection.md](impact/educator-impact-reflection.md) → A 7-day prompting guide for educators
 
 - [Educator Impact Reflection](impact/educator-impact-reflection.md) — A 7-day AI prompting guide for classroom transformation
