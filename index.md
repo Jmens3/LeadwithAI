@@ -53,6 +53,7 @@ This platform features:
 📁 [`/lesson-plans/`](lesson-plans/) → (Coming soon)  
 📁 [`/projects/`](projects/) → Tools and integrations  
 📁 [`/impact/`](impact/) → Testimonials, results, pilots
+- [Educator Impact Reflection](impact/educator-impact-reflection.md) — A 7-day AI prompting guide for classroom transformation
 
 ---
 
