@@ -52,7 +52,8 @@ This platform features:
 📁 [`/prompts/`](prompts/) → All prompts, categorized  
 📁 [`/lesson-plans/`](lesson-plans/) → (Coming soon)  
 📁 [`/projects/`](projects/) → Tools and integrations  
-📁 [`/impact/`](impact/) → Testimonials, results, pilots
+📁[impact/educator-impact-reflection.md](impact/educator-impact-reflection.md) → A 7-day prompting guide for educators
+
 - [Educator Impact Reflection](impact/educator-impact-reflection.md) — A 7-day AI prompting guide for classroom transformation
 
 ---
