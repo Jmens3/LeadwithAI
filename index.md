@@ -60,6 +60,8 @@ Now available: [Grade 1 Math – Quarter 1 Planning Kit](lesson-plans/)
   
 📁 [`/projects/`](projects/) → Tools and integrations 
 [AI Teaching Resource Launch](projects/ai-companion-launch-plan.md) → A strategic roadmap for rolling out your AI teaching tools
+- [EduVerse Pro GPT – AI Assistant for Educators](./projects/eduverse-pro-gpt.md)
+
 
 📁[impact/educator-impact-reflection.md](impact/educator-impact-reflection.md) → A 7-day prompting guide for educators
 
