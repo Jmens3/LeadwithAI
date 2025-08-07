@@ -43,6 +43,12 @@ This platform features:
 - [📘 Full Prompt Toolkit (15 Prompts)](LeadWithAI_15_Prompts_Full_Document.pdf)  
 - [📘 Expanded Prompt Descriptions](LeadWithAI_10_Prompts_Expanded.pdf)  
 - [📘 Article + Prompt Sample Bundle](LeadWithAI_Article_and_Prompt.pdf)
+- 
+## 🗂️ Quarter 1 Planning Kit
+
+Now available: [Grade 1 Math – Quarter 1 Planning Kit](lesson-plans/)  
+🗓️ Includes Weeks 1–2 of daily lesson plans aligned to Wisconsin DPI standards  
+📥 Downloadable PDFs + daily .md lessons ready to use in classrooms
 
 ---
 
@@ -50,7 +56,8 @@ This platform features:
 
 📁 [`/articles/`](articles/) → Essays and reflections  
 📁 [`/prompts/`](prompts/) → All prompts, categorized  
-📁 [`/lesson-plans/`](lesson-plans/) → (Coming soon)  
+📁 /lesson-plans/ → Aligned math lesson plans and downloads
+  
 📁 [`/projects/`](projects/) → Tools and integrations 
 [AI Teaching Resource Launch](projects/ai-companion-launch-plan.md) → A strategic roadmap for rolling out your AI teaching tools
 
