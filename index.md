@@ -56,7 +56,8 @@ Now available: [Grade 1 Math – Quarter 1 Planning Kit](lesson-plans/)
 
 📁 [`/articles/`](articles/) → Essays and reflections  
 📁 [`/prompts/`](prompts/) → All prompts, categorized  
-📁 /lesson-plans/ → Aligned math lesson plans and downloads
+📁 [/lesson-plans/](lesson-plans/index.md) → Aligned math lesson plans and downloads
+
   
 📁 [`/projects/`](projects/) → Tools and integrations
 
