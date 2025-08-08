@@ -18,6 +18,7 @@ A lightweight, prompt-powered task tracking system built for educators, teams, a
 - `assets/diagram.png` – Visual guide (optional)
 
 🧰 Use Case Guides
+
 Explore real-world examples of how educators and teams can apply this system:
 
 - [Educator Weekly Review](projects/smart-task-manager/educator-weekly-review.md) → Use for teacher check-ins, reflections, or Friday wrap-ups  
