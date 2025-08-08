@@ -58,9 +58,14 @@ Now available: [Grade 1 Math – Quarter 1 Planning Kit](lesson-plans/)
 📁 [`/prompts/`](prompts/) → All prompts, categorized  
 📁 /lesson-plans/ → Aligned math lesson plans and downloads
   
-📁 [`/projects/`](projects/) → Tools and integrations 
+📁 [`/projects/`](projects/) → Tools and integrations
+
 [AI Teaching Resource Launch](projects/ai-companion-launch-plan.md) → A strategic roadmap for rolling out your AI teaching tools
+
 - [EduVerse Pro GPT – AI Assistant for Educators](./projects/eduverse-pro-gpt.md)
+
+📁 [Smart Task Management](projects/smart-task-manager/README.md)  
+A lightweight, prompt-powered task tracking system built for educators, teams, and planners using ChatGPT.
 
 
 📁[impact/educator-impact-reflection.md](impact/educator-impact-reflection.md) → A 7-day prompting guide for educators
