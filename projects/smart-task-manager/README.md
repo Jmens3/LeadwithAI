@@ -12,18 +12,19 @@ A lightweight, prompt-powered task tracking system built for educators, teams, a
 - Useful for planning, delegation, and team check-ins
 
 ## 🧰 Files in This Project
-- `task-manager-core.md` – Core ChatGPT prompt for daily task use
-- `templates.md` – Task prompt examples for meetings, reflections, etc.
-- `use-cases/` – Sample educator scenarios
-- `assets/diagram.png` – Visual guide (optional)
+[task-manager-core.md](projects/smart-task-manager/task-manager-core.md) – Core ChatGPT prompt for daily task use  
+[templates.md](projects/smart-task-manager/templates.md) – Task prompt examples for meetings, reflections, etc.  
+[educator-weekly-review.md](projects/smart-task-manager/educator-weekly-review.md) – Educator use case  
+[team-collaboration.md](projects/smart-task-manager/team-collaboration.md) – Team sync-up use case  
+[ai-planning-support.md](projects/smart-task-manager/ai-planning-support.md) – AI curriculum planner use case  
 
-🧰 Use Case Guides
 
-Explore real-world examples of how educators and teams can apply this system:
+## 🧰 Use Case Examples
 
-- [Educator Weekly Review](projects/smart-task-manager/educator-weekly-review.md) → Use for teacher check-ins, reflections, or Friday wrap-ups  
-- [Team Collaboration](projects/smart-task-manager/team-collaboration.md) → Use for sync-ups and team planning  
-- [AI Planning Support](projects/smart-task-manager/ai-planning-support.md) → Use ChatGPT for curriculum mapping, goal setting, and forward planning  
+- [Educator Weekly Review](projects/smart-task-manager/educator-weekly-review.md)  
+- [Team Collaboration](projects/smart-task-manager/team-collaboration.md)  
+- [AI Planning Support](projects/smart-task-manager/ai-planning-support.md)  
+
 
 
 📘 A project by [LeadWithAI](https://jmens3.github.io/LeadwithAI/)
