@@ -12,11 +12,11 @@ A lightweight, prompt-powered task tracking system built for educators, teams, a
 - Useful for planning, delegation, and team check-ins
 
 ## 🧰 Files in This Project
-[task-manager-core.md](projects/smart-task-manager/task-manager-core.md) – Core ChatGPT prompt for daily task use  
-[templates.md](projects/smart-task-manager/templates.md) – Task prompt examples for meetings, reflections, etc.  
-[educator-weekly-review.md](projects/smart-task-manager/educator-weekly-review.md) – Educator use case  
-[team-collaboration.md](projects/smart-task-manager/team-collaboration.md) – Team sync-up use case  
-[ai-planning-support.md](projects/smart-task-manager/ai-planning-support.md) – AI curriculum planner use case  
+- [task-manager-core.md](projects/smart-task-manager/task-manager-core.md) – Core ChatGPT prompt for daily task use  
+- [templates.md](projects/smart-task-manager/templates.md) – Task prompt examples for meetings, reflections, etc.  
+- [educator-weekly-review.md](projects/smart-task-manager/educator-weekly-review.md) – Educator use case  
+- [team-collaboration.md](projects/smart-task-manager/team-collaboration.md) – Team sync-up use case  
+- [ai-planning-support.md](projects/smart-task-manager/ai-planning-support.md) – AI curriculum planner use case  
 
 
 ## 🧰 Use Case Examples
