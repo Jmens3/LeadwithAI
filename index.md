@@ -68,6 +68,13 @@ Now available: [Grade 1 Math – Quarter 1 Planning Kit](lesson-plans/)
 A lightweight, prompt-powered task tracking system built for educators, teams, and planners using ChatGPT.
 
 
+📄 [task-manager-core.md](projects/smart-task-manager/task-manager-core.md) – Core ChatGPT prompt for daily task use  
+📄 [templates.md](projects/smart-task-manager/templates.md) – Task prompt examples for meetings, reflections, etc.  
+📄 [educator-weekly-review.md](projects/smart-task-manager/educator-weekly-review.md) – Educator use case  
+📄 [team-collaboration.md](projects/smart-task-manager/team-collaboration.md) – Team sync-up use case  
+📄 [ai-planning-support.md](projects/smart-task-manager/ai-planning-support.md) – AI curriculum planner use case  
+
+
 📁[impact/educator-impact-reflection.md](impact/educator-impact-reflection.md) → A 7-day prompting guide for educators
 
 - [Educator Impact Reflection](impact/educator-impact-reflection.md) — A 7-day AI prompting guide for classroom transformation
