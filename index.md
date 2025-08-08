@@ -67,7 +67,10 @@ Now available: [Grade 1 Math – Quarter 1 Planning Kit](lesson-plans/)
 
 - [Educator Impact Reflection](impact/educator-impact-reflection.md) — A 7-day AI prompting guide for classroom transformation
 
----
+## 📣 Community Engagement
+📣 [Join the Movement – MPS Teacher Referral PDF](impact/join-the-movement-safe.pdf)  
+Encourage your network to help recruit licensed educators to Milwaukee Public Schools.
+
 
 ## 📜 License & Use
 
