@@ -39,13 +39,11 @@ This platform features:
 
 ---
 
-## 📥 Downloadable Toolkits
+### 📥 Downloadable Toolkits
 
- 📘 [Full Prompt Toolkit (15 Prompts)](LeadWithAI_15_Prompts_Full_Document%20(1).pdf)
-
- 📘 [Expanded Prompt Descriptions](LeadWithAI_10_Prompts_Expanded%20(1).pdf)
-
- 📘 [Article + Prompt Sample Bundle](LeadWithAI_Article_and_Prompt%20(1).pdf)
+- [📘 Full Prompt Toolkit (15 Prompts)](LeadWithAI_15_Prompts_Expanded.pdf)
+- [📘 Expanded Prompt Descriptions](LeadWithAI_10_Prompts_Expanded.pdf)
+- [📘 Article + Prompt Sample Bundle](Why_AI_Lead_in_Education_and_Lesson_Plan_Generator.pdf)
 
  
 ## 🗂️ Quarter 1 Planning Kit
