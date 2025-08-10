@@ -17,18 +17,19 @@ This platform features:
 
 ## 📚 Explore the Prompt Library
 
-➡️ [**Prompt Index**](prompt-index.md) — Browse all 15 categorized prompts
+📘 [Prompt Index](/prompts/)
 
-📂 [Lesson Plan Generator](prompts/lesson-plan-generator.md)  
-📂 [IEP Support Assistant](prompts/iep-support-assistant.md)  
-📂 [Grading Assistant](prompts/grading-assistant.md)  
-📂 [Professional Email Assistant](prompts/professional-email-assistant.md)  
-📂 [Behavior Support Generator](prompts/behavior-support-generator.md)  
-📂 [AI Feedback Explainer](prompts/ai-feedback-explainer.md)  
-📂 [AI Literacy Explainer](prompts/ai-literacy-explainer.md)  
-📂 [Student Study Coach](prompts/ai-study-coach-reflection-guide.md)  
-📂 [Teacher PD Generator](prompts/teacher-pd-generator.md)  
-📂 [AI Ethics Scenario Builder](prompts/ai-ethics-scenario.md)
+📁 [Lesson Plan Generator](/prompts/lesson-plan-generator)
+📁 [IEP Support Assistant](/prompts/iep-support-assistant)
+📁 [Grading Assistant](/prompts/grading-assistant)
+📁 [Professional Email Assistant](/prompts/professional-email-assistant)
+📁 [Behavior Support Generator](/prompts/behavior-support-generator)
+📁 [AI Feedback Explainer](/prompts/ai-feedback-explainer)
+📁 [AI Literacy Explainer](/prompts/ai-literacy-explainer)
+📁 [Student Study Coach](/prompts/ai-study-coach-reflection-guide)
+📁 [Teacher PD Generator](/prompts/teacher-pd-generator)
+📁 [AI Ethics Scenario Builder](/prompts/ai-ethics-scenario)
+
 
 ---
 
