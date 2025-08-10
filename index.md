@@ -41,10 +41,13 @@ This platform features:
 
 ## 📥 Downloadable Toolkits
 
-- [📘 Full Prompt Toolkit (15 Prompts)](LeadWithAI_15_Prompts_Full_Document.pdf)  
-- [📘 Expanded Prompt Descriptions](LeadWithAI_10_Prompts_Expanded.pdf)  
-- [📘 Article + Prompt Sample Bundle](LeadWithAI_Article_and_Prompt.pdf)
-- 
+ 📘 [Full Prompt Toolkit (15 Prompts)](LeadWithAI_15_Prompts_Full_Document%20(1).pdf)
+
+ 📘 [Expanded Prompt Descriptions](LeadWithAI_10_Prompts_Expanded%20(1).pdf)
+
+ 📘 [Article + Prompt Sample Bundle](LeadWithAI_Article_and_Prompt%20(1).pdf)
+
+ 
 ## 🗂️ Quarter 1 Planning Kit
 
 Now available: [Grade 1 Math – Quarter 1 Planning Kit](lesson-plans/)  
