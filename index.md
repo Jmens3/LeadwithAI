@@ -45,6 +45,7 @@ This platform features:
 - [📘 Expanded Prompt Descriptions](LeadWithAI_10_Prompts_Expanded.pdf)
 - [📘 Article + Prompt Sample Bundle](Why_AI_Lead_in_Education_and_Lesson_Plan_Generator.pdf)
 
+
  
 ## 🗂️ Quarter 1 Planning Kit
 
